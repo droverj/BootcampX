@@ -1,9 +1,0 @@
---2022-10-20 09:56:47--  http://bit.ly/33vpmMb
-Resolving bit.ly (bit.ly)... 67.199.248.11, 67.199.248.10
-Connecting to bit.ly (bit.ly)|67.199.248.11|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://raw.githubusercontent.com/lighthouse-labs/w5-sql-seeds/master/bootcampx_seeds/assignment_submissions_seeds.sql [following]
---2022-10-20 09:56:47--  https://raw.githubusercontent.com/lighthouse-labs/w5-sql-seeds/master/bootcampx_seeds/assignment_submissions_seeds.sql
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2606:50c0:8003::154, 2606:50c0:8001::154, 2606:50c0:8000::154, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2606:50c0:8003::154|:443... connected.
-Unable to establish SSL connection.
